@@ -1,0 +1,7 @@
+task,input,expected_output
+Question Answering,"What is prompt engineering?","A clear explanation of designing prompts to guide an LLM."
+Text Summarization,"Artificial intelligence is used in healthcare to analyse medical images, support doctors, and help detect diseases. In education, AI supports personalized learning. Banks use AI to detect fraud and analyse risk.","A short summary preserving healthcare, education, and banking uses of AI."
+Text Classification,"Please add a dark mode to the application.","Suggestion"
+Text Classification,"The application keeps crashing and I cannot complete my work.","Complaint"
+Text Classification,"How can I reset my password?","Question"
+Question Answering,"Which tasks does this chatbot support?","Question answering, summarization, and classification."

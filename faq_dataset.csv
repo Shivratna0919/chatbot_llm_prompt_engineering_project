@@ -1,0 +1,9 @@
+question,answer
+"What is this chatbot?","This is a student mini project that uses a Large Language Model and prompt engineering for question answering, summarization, and classification."
+"What tasks can the chatbot perform?","It supports question answering, text summarization, and text classification."
+"What is prompt engineering?","Prompt engineering means writing clear instructions and providing context and output rules so a language model can respond more usefully."
+"How does text summarization work?","The chatbot sends the provided text with a summarization prompt to the language model and asks it to preserve the main ideas in a shorter form."
+"What is text classification?","Text classification assigns a text input to a predefined category based on its meaning or intent."
+"How is response quality evaluated?","Responses can be reviewed for relevance, correctness, clarity, and completeness. The app provides an LLM-assisted evaluation rubric."
+"What is an LLM API?","An LLM API allows an application to send prompts to a hosted language model and receive generated responses."
+"What data is used to test the project?","The project uses a custom query dataset and an FAQ dataset."
